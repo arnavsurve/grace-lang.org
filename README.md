@@ -1,3 +1,1 @@
-# official source for the grace language website
-
-(under construction)
+Website for the Grace programming language
