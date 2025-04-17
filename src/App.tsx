@@ -26,8 +26,8 @@ function App() {
 
       <div className="max-w-3xl mx-auto">
         <section className="px-6 py-8 pb-0">
-          <h1 className="text-4xl font-bold">Grace</h1>
-          <p className="mt-2 text-neutral-400">
+          <h1 className="text-4xl font-bold">▚ Grace</h1>
+          <p className="mt-4 text-neutral-400">
             Look back with curiosity, build forward with Grace.
           </p>
         </section>
